@@ -1,0 +1,4 @@
+SAMBA_4.7.6_UBUNTU {
+	global:
+		*;
+};
